@@ -1,2 +1,2 @@
 # gitskill
-5555555555555555
+Creating a new branch is quick AND simple.
